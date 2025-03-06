@@ -1,7 +1,7 @@
 # Pharmaceutical-Sales-Analysis - Power-BI
 
 ## Overview
-This project analyzes pharmaceutical sales data using Power BI to gain insights into sales trends, channel performance, and sales team effectiveness. The dataset consists of 254,079 rows covering multiple years, with a total sales value of €11.80 billion.
+This project analyzes pharmaceutical sales data using Power BI to gain insights into sales trends, channel performance, and sales team effectiveness. The dataset consists of 254,079 rows covering multiple years (2017 - 2020), with a total sales value of €11.80 billion.
 
 ## Key Steps
 1. Cleaned & transformed the data in Power Query before adding to Power BI
